@@ -12,3 +12,4 @@ curl -G "m=login2&l2=gost&key=95b89742860e2bba81e67d919a0b61ad0a261607&password=
 #разлогиниваемся
 curl -G "m=login2&quit=1" http://xn--80akaohdbdht3b.xn--p1ai/
 pwd
+pwd
